@@ -4,7 +4,7 @@ Bienvenido al proyecto al español del mod Doki Doki Exit Music Redux, para Doki
 # ¿Cómo instalo la traducción? 
 * Primero debes instalar los archivos del DDLC en tu computador, ya sea desde Steam o desde la [página oficial](https://ddlc.moe/).
 
-* Descarga la última versión del parche al español desde este [link](https://github.com/SadlyThresh/DDT_ESP/releases) y copia y pega el contenido del archivo dentro de la carpeta del juego.
+* Descarga la última versión del parche al español desde este [link](https://github.com/SadlyThresh/EMREDUX_ESP/releases) y copia y pega el contenido del archivo dentro de la carpeta del juego.
 
 # ¿Dónde encuentro los archivos del juego con Steam?
 * En tu biblioteca de juegos, haz click derecho sobre el juego de Doki Doki Literature Club y selecciona «Propiedades».
